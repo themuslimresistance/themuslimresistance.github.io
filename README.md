@@ -1,1 +1,3 @@
-# themuslimresistance.github.io
+README.md
+
+The muslim resistance
