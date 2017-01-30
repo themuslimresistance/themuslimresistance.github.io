@@ -1278,7 +1278,10 @@ hr {
 /* k. Hero Section
 /* =================================================================== */
 #hero {
-	background: #12151b url(../images/hero-bg.jpg) no-repeat center center fixed;
+	background: linear-gradient(
+      rgba(0, 0, 0, 0.65), 
+      rgba(0, 0, 0, 0.65)
+    ), url(../images/hero-bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	background-size: cover !important;
